@@ -1,0 +1,493 @@
+body{
+    
+    padding: 0;
+    background-color: #f7f7f7;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    max-width: inherit;
+}
+.navbar-brand {
+    margin-top: -5px ;
+    border: none;
+    
+}
+@media screen and (max-width: 48em){
+    .navbar-brand {
+    margin-top:  ;
+        
+    }
+}
+}
+.navbar-default{
+    background-color: transparent;
+    padding: 20px ;
+    border: none;
+}
+#ulist{
+    margin-left: 25%;
+    color: #112e41;
+}#ulist li a{
+    
+    color: #112e41;
+}
+.navbar-default .navbar-toggler {
+    border-color: transparent;
+    background-color: #ff1481;
+}
+/*
+@media screen and (min-width: 48em) {
+    .navbar-brand img {
+            max-width: 500px;
+        }
+    }
+*/
+    
+
+
+
+
+
+.first{
+    background-color: #f7f7f7;
+    margin-top: 100px;
+}
+.logo{
+    float: left;
+    padding: 20px;
+}
+/*
+
+*/
+    
+#overlay1{
+    margin-top: 15%;
+    padding: 0;
+}
+#main1{
+    text-align: center;
+    
+}
+#main1 h1{
+    font-size: 5em;
+    color: #112e41;
+   font-family: "Oswald", sans-serif;
+    font-weight: 600;
+}
+@media screen and (max-width: 48em){
+ #main1 h2{
+    font-size: 3em;
+     margin-bottom: -100px;
+}   
+}
+#main1 h2{
+    font-size: 3em;
+}
+@media screen and (max-width: 48em){
+    #main1 button{
+    border: none;
+    background-color: #ff1481;
+    margin-bottom: 50px;
+    padding: 14px 30px;
+    font-size:  14px;
+    text-decoration: none;
+}
+}
+#main1 button{
+    border: none;
+    background-color: #ff1481;
+    margin-top: 40%;
+    padding: 14px 30px;
+    font-size:  14px;
+    text-decoration: none;
+}
+#main1 button a{
+    text-decoration: none;
+    color: white;
+}
+#overlay2 {
+    margin-top: -15%;
+    padding: 0px;
+    margin-left: -17.6%;
+    
+}
+.seconddiv{
+    background-color: #ffffff;
+    height: 300px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+.seconddiv p{
+    color:  #ff1481;
+    padding-top: 100px;
+   
+    
+}
+.seconddiv h2{
+    font-size: 42px;
+  color: #112e41;
+  font-weight: 700;
+  position: relative;
+}
+.third{
+    background-color: #112e41;
+    color: white;
+    padding-left: 3.5%;
+    height: 60%;
+    text-align: center;
+    padding-bottom: 6%;
+        width: 100%;
+    max-width: 100%;
+        vertical-align: middle;
+}
+@media screen and (max-width: 48em){
+    .third{
+   background-color: #112e41;
+    color: white;
+    padding-left: 18%;
+    height: 60%;
+    text-align: center;
+    padding-bottom: 6%;
+        width: 100%;
+    max-width: 100%;
+        vertical-align: middle;
+}
+}
+.third .col-md-3{
+    background-color: #2e4158;
+    padding: 8px;
+    margin: 1%;
+    width: 270px;
+    max-width: 100%;
+    vertical-align: middle;
+    border-radius: 5px;
+    height: 400px;
+    margin-top: 90px;
+}
+.third .col-md-3 p{
+    opacity: 0.5;
+}
+.third .col-md-3 h2{
+    
+    font-size: 1.5em;
+    font-weight: 700;
+        
+    
+}.third .col-md-3 h1{
+    margin-top: 90px;
+    background-color: #586779;
+    padding: 20px;
+    width: 90px;
+    height: 90px;
+    margin-left: 80px;
+    border-radius:50% ;
+    
+}.third .col-md-3:hover{
+    background-color: #ffffff;
+    color:  #112e41;
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    border-radius: 5px;
+    height: 400px;
+    margin-top: 90px;
+    
+}
+.third .col-md-3:hover h1{
+    margin-top: 90px;
+    background-color: #ff1481;
+    color: white;
+    padding: 20px;
+    width: 90px;
+    height: 90px;
+    margin-left: 80px;
+    border-radius:50% ;
+    
+}
+.fourth{
+    
+    
+    background-color: transparent;
+    color: #ff1481;
+    height: ;
+    margin-top: 15%;
+    text-align: justify;
+    padding: 0;
+    
+    
+}
+
+.fourth #pic1{
+    padding: 0 20px 0px 0px;
+    background-image: url("../img/about_overlay.png" );
+    
+    
+}
+.fourth #pic1 img{
+    margin-top: 10%;
+    width: 100%;
+    max-width: 100%;
+    
+    
+}
+.fourth #pic2 .square{
+    background-color: transparent;
+    border: 10px solid #ff1481;
+    width: 200px;
+    height: 200px;
+    margin-top: 25%;
+    margin-left: -25%;
+    
+    
+}
+@media screen and (max-width: 48em) {
+   .fourth #pic2 .square {
+    background-color: transparent;
+    border: 10px solid #ff1481;
+    width: 200px;
+    height: 200px;
+    margin-top: 25%;
+    margin-left: 15%;  
+    }
+}
+@media screen and (max-width: 48em) {
+   .fourth #pic2 h2 {
+    
+    margin-top: -27%;
+    color: rgb(22, 43, 69);
+    font-size: 4rem;
+    font-weight: bold;
+    margin-left: 12%;
+    }
+}
+
+.fourth #pic2 h2{
+
+    margin-top: -27%;
+    color: rgb(22, 43, 69);
+    font-size: 3em;
+    font-weight: bolder;
+   
+    
+    
+    
+    
+}.fourth #pic2{
+    
+    margin-top: -5%;
+    margin-left: -13%;
+}
+@media screen and (max-width: 48em) {
+    #text{
+   text-align: left;
+        margin-top: 10%;
+    padding: 3%;
+}
+}
+#text{
+   text-align: left;
+    padding: 3%;
+}
+#text h1{
+    color: rgb(22, 43, 69);
+    font-weight: 600;
+    font-size: 3rem;
+}#text h3{
+    color:  #586779;
+   line-height: 3rem;
+}#text .p2{
+    color: grey;
+    line-height: 2em;
+   
+}
+#text button{
+    font-size:  14px;
+    border: none;
+    color: white;
+    background-color: #ff1481;
+    margin-top: 35%;
+    padding: 14px 30px;
+}
+.fifth{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+   
+}
+.fifth img{
+        width: 100%;
+    max-width: 100%;
+        vertical-align: middle;
+    border-style: none;
+}
+.fifth #5star img{
+
+     width: 10px;
+    box-sizing: border-box;
+}
+.recent{
+    color: #ff1481;
+}
+.fifth h1{
+    color: rgb(22, 43, 69);
+    font-weight: bold;
+    font-size: 4rem;
+    margin-bottom: 7%;
+}
+#fifthtext {
+    
+    padding: 0 10% 0 14%;
+    text-align: left;
+}#fifthtext .place{
+    
+    padding:  6% 0 ;
+    line-height: 25px;
+    text-align: left;
+}#fifthtext button{
+    
+    border: none;
+    text-decoration: none;
+    background-color: transparent;
+}#fifthtext button:hover{
+    
+    border: none;
+    text-decoration: none;
+    background-color: transparent;
+    color: #ff1481;
+}
+.sixth{
+    background-color: rgb(22, 43, 69);
+    color: white;
+    padding: 6%;;
+    margin: 0 -15px;
+}
+.sixth strong{
+    font-size: 5rem;
+}
+.seventh{
+    text-align: center;
+    padding: 10% 0;
+}.seventh p{
+     color: #ff1481;
+}.seventh h1{
+     color: rgb(22, 43, 69);
+    font-weight: bold;
+    font-size: 4rem;
+    margin-bottom: 7%;
+}
+#video{
+    background-image: url("../img/intro_bg.png");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+
+.eight{
+    text-align: center;
+    padding: 10% 0;
+    color: white;
+}.eight p{
+     color: #ff1481;
+}.eight h1{
+     color: rgb(22, 43, 69);
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 7%;
+}
+.eight .row{
+    background-color:rgb(22, 43, 69);
+    padding: 20% 20px;
+}
+.eight .col-md-4{
+    width: 380px;
+    height: 500px;
+    border: 0.5px solid whitesmoke ;
+    padding: 15px;
+    margin: 1%;
+}.eight .col-md-4 a{
+   
+    color: whitesmoke;
+    text-decoration: none;
+    
+}.eight .col-md-4 a:hover{
+   
+    color: #ff1481;
+    text-decoration: none;
+    
+}.ninth{
+    text-align: center;
+    padding: 10% 0;
+    color:rgb(22, 43, 69);
+}.ninth p{
+     color: #ff1481;
+}.ninth h1{
+     color: rgb(22, 43, 69);
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 7%;
+}
+
+.ninth .col-md-4{
+    width: 360px;
+    height: 600px;
+    border: 0.5px solid grey ;
+    padding: 0px;
+    margin: 0.2%;
+    margin-left: 4%;
+    text-align: left;
+    
+}.ninth .col-md-4:hover{
+    width: 360px;
+    height: 600px;
+    border: 0.5px solid grey ;
+    padding: 0px;
+    margin: 2%;
+    box-shadow: 20px 20px 20px 20px rgb(252, 240, 246);
+    margin-left: 4%;
+    text-align: left;
+    
+}.ninth .col-md-4 a{
+   
+    color: rgb(22, 43, 69);
+    text-decoration: none;
+    
+}.ninth .col-md-4 a:hover{
+   
+    color: #ff1481;
+    text-decoration: none;
+    
+}
+footer{
+    background-color: rgb(22, 43, 69);
+    color: white;
+    padding: 6%;;
+    margin: 0 -15px;
+}
+footer hr{
+    border: solid 1px white;
+    margin-top: 300px;
+}
+footer .col-md-4{
+   padding: 50px;
+}footer .input-group{
+   background-color: rgb(22, 43, 69);
+}
+footer i {
+    color: white;
+}
+$cd-btn: #011c37;
+$cd-txt: #15DEA5;
+
+.testbutton{
+    background: $cd-btn;
+    color: $cd-txt;
+    font-size: 3rem;
+    cursor: pointer;
+    padding: 1.85rem 3rem;
+    border-radius: 10rem;
+    transform: scale(1);
+    &:hover {
+        transform: scale(1.15);
+    }
+}
